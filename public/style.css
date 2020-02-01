@@ -1,0 +1,47 @@
+html {
+    font-family: "Avenir Next" , Helvetica ;
+}
+
+form {
+    display: inline-block;
+}
+
+input {
+    border-radius: 5px;
+    padding: 5px 5px 4px 5px;
+    margin: 10px 5px 10px 5px;
+}
+
+div.card-title {
+    border-radius: 5px;
+    margin: 20px 20px 20px 20px;
+}
+
+div.text-identifier {
+    padding: 20px 20px 20px 20px;
+}
+
+span.title-header {
+    padding: 5px 5px 5px 5px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+div.context {
+    margin-top: 20px;
+}
+
+div.category-selection-box{
+    position: relative;
+    display: inline-block;
+}
+
+p.cat {
+    display: inline-block;
+    margin: 10px 5px 10px 5px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    color: white;
+    cursor: pointer;
+}
