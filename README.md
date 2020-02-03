@@ -29,6 +29,8 @@ In another Terminal window; run the build files to generate the React scripts to
 
 I've created a server to listen to requests on the server side and handle these requests and API routing on the
 server files. My goal was to persist a file which logs all the client request terms and keeps the Clinical Trials API
-responses in one file or database to be able to route that to the client using server-side rendering so that the user
-is able to view a list of historical terms they can reference without having to access the external Clinical Trials
-API but the historical records on the server.
+responses in one file or database.
+
+I would have liked to be able to route interventions data to the client
+using server-side rendering. This feature would allow the user to view a list of historical terms that they can
+reference without having to access the external Clinical Trials API but historical references on the server.
