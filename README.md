@@ -25,6 +25,12 @@ server-side.
 
 In another Terminal window; run the build files to generate the React scripts to render the UI on the Client side.
 
+### Use the API
+
+Once the server is running and webpack creates the bundle for the React scripts please access the UI through:
+
+http://localhost:8081/
+
 ### Future Work
 
 I've created a server to listen to requests on the server side and handle these requests and API routing on the
