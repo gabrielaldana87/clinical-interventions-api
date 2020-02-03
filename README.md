@@ -1,6 +1,15 @@
-To Run Project:
+### To Run Project:
 
-node version 10.9.0
+Please use node version 10.9.0
+
+### Libraries Used for Project Build and Server-Side Routing:
+
+* babel
+* express
+* hbs
+* react
+* webpack
+* nodemon
 
 ### `npm install`
 
